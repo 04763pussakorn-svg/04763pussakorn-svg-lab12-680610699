@@ -51,7 +51,7 @@ export default function TodolistPage() {
               ))}
             </div>
           </main>
-          <Footer year={2026} fullName="พัสกร เทพจักร์" studentId="680610699" />
+          <Footer year={2026} fullName="pussakorn tapjak" studentId="680610699" />
         </div>
       </div>
     </div>
