@@ -31,7 +31,7 @@ export default function TodolistPage() {
     <div className="container-fluid min-vh-100">
       <div className="row h-100">
         <div className="col-2 p-0">
-          <Sidebar username="chanadda" type="admin" />
+          <Sidebar username="pussakorn" type="admin" />
         </div>
 
         <div className="col-10 p-0 d-flex flex-column min-vh-100">
