@@ -5,4 +5,15 @@ interface TaskCardProps {
   isDone: boolean;
 }
 
-export type { TaskCardProps };
+interface SidebarProps {
+  username: string;
+  type: string;
+}
+
+interface FooterProps {
+  year: number;
+  fullName: string;
+  studentId: string;
+}
+
+export type { TaskCardProps, SidebarProps, FooterProps };
